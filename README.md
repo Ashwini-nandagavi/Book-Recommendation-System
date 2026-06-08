@@ -309,10 +309,7 @@ The Hybrid Recommendation System successfully:
 
 Aspiring Data Scientist | AI Engineer | Data Analyst
 
-#### Connect With Me
 
-- GitHub: https://github.com/Ashwini-nandagavi
-- LinkedIn: https://www.linkedin.com/in/ashwini-nandagavi
 
 ---
 
